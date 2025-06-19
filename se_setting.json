@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se": {
-    "25": {"url":"https://1pkq1.github.io/tenhou-sounds/25.wav"},
-  　"26": {"url":"https://1pkq1.github.io/tenhou-sounds/26.wav"},
-  　"27": {"url":"https://1pkq1.github.io/tenhou-sounds/27.wav"},
-  　"28": {"url":"https://1pkq1.github.io/tenhou-sounds/28.wav"},
-  　"29": {"url":"https://1pkq1.github.io/tenhou-sounds/29.wav"},
+    "25":{"url":"https://1pkq1.github.io/tenhou-sounds/25.wav"},
+  　"26":{"url":"https://1pkq1.github.io/tenhou-sounds/26.wav"},
+  　"27":{"url":"https://1pkq1.github.io/tenhou-sounds/27.wav"},
+  　"28":{"url":"https://1pkq1.github.io/tenhou-sounds/28.wav"},
+  　"29":{"url":"https://1pkq1.github.io/tenhou-sounds/29.wav"},
     "30":{"url":"https://1pkq1.github.io/tenhou-sounds/30.wav"},
     "31":{"url":"https://1pkq1.github.io/tenhou-sounds/hisa_reach.wav"},
     "32":{"url":"https://1pkq1.github.io/tenhou-sounds/32.wav"},
@@ -13,14 +13,14 @@
     "34":{"url":"https://1pkq1.github.io/tenhou-sounds/34.wav"},
     "35":{"url":"https://1pkq1.github.io/tenhou-sounds/hisa_tsumo.wav"},
     "36": {"url":"https://1pkq1.github.io/tenhou-sounds/36.wav"},
-  　"37": {"url":"https://1pkq1.github.io/tenhou-sounds/37.wav"},
-  　"38": {"url":"https://1pkq1.github.io/tenhou-sounds/38.wav"},
-  　"39": {"url":"https://1pkq1.github.io/tenhou-sounds/39.wav"},
-  　"40": {"url":"https://1pkq1.github.io/tenhou-sounds/40.wav"},
-  　"41": {"url":"https://1pkq1.github.io/tenhou-sounds/41.wav"},
-  　"42": {"url":"https://1pkq1.github.io/tenhou-sounds/42.wav"},
-  　"43": {"url":"https://1pkq1.github.io/tenhou-sounds/43.wav"},
-  　"44": {"url":"https://1pkq1.github.io/tenhou-sounds/44.wav"},
-  　"45": {"url":"https://1pkq1.github.io/tenhou-sounds/45.wav"}
+  　"37":{"url":"https://1pkq1.github.io/tenhou-sounds/37.wav"},
+  　"38":{"url":"https://1pkq1.github.io/tenhou-sounds/38.wav"},
+  　"39":{"url":"https://1pkq1.github.io/tenhou-sounds/39.wav"},
+  　"40":{"url":"https://1pkq1.github.io/tenhou-sounds/40.wav"},
+  　"41":{"url":"https://1pkq1.github.io/tenhou-sounds/41.wav"},
+  　"42":{"url":"https://1pkq1.github.io/tenhou-sounds/42.wav"},
+  　"43":{"url":"https://1pkq1.github.io/tenhou-sounds/43.wav"},
+  　"44":{"url":"https://1pkq1.github.io/tenhou-sounds/44.wav"},
+  　"45":{"url":"https://1pkq1.github.io/tenhou-sounds/45.wav"}
   }
 }
